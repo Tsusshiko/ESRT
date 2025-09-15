@@ -1,0 +1,12 @@
+List of parameters
+------------------------------------------
+device_type:4
+device_id:45
+device_longitude:-8.331963121891022
+device_latitude:41.447101364063315
+device_elevation:0.0
+device_radius:0.0
+device_hide:0
+device_draw_battery:false
+device_sensor_unit_radius:0.0
+device_script_file_name:Gateway.csc
